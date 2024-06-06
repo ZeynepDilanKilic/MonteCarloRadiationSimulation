@@ -8,7 +8,7 @@ This repository contains a Monte Carlo simulation for measuring radiation permea
 
 ## Project Structure
 
-- ` MonteCarloRadiationSimulation.m`: The main script for the Monte Carlo simulation.
+- `MonteCarloRadiationSimulation.m`: The main script for the Monte Carlo simulation.
 - `W_mu.txt`: Data file containing absorption coefficients for W.
 - `air_mu.txt`: Data file containing absorption coefficients for air.
 - `README.md`: This file, providing an overview of the project.
